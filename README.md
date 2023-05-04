@@ -1,4 +1,4 @@
-# Linkedin Clone
+# Facebook Clone
 
 This is a Facebook Clone developed by [Ahmed Faroolle](https://www.imfaroolle.com/) For practicing propose.
 
