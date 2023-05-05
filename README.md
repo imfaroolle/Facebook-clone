@@ -20,7 +20,7 @@ This is a Facebook Clone developed by [Ahmed Faroolle](https://www.imfaroolle.co
 
 #### Video
 
-![](./screenshots/imfaroolle%20facebook%20clone.webm)
+![](./screenshots/imfaroolle%20facebook%20clone.gif)
 
 ## Built with
 
