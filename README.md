@@ -4,7 +4,7 @@ This is a Facebook Clone developed by [Ahmed Faroolle](https://www.imfaroolle.co
 
 ## Table of contents
 
-- [Links](#links)
+- [Screenshots](#links)
 - [Built with](#built-with)
 - [Author](#author)
 
