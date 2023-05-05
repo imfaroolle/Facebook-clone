@@ -35,7 +35,7 @@ function Post({ name, email, image, message, timestamp, postImageUrl }) {
       </div>
 
       {postImageUrl && (
-        <div className="relative h-56 md:h-[42rem] bg-white">
+        <div className="relative h-[25rem] md:h-[42rem] bg-white">
           <Image
             className="object-cover"
             src={postImageUrl}

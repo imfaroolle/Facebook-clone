@@ -8,9 +8,19 @@ This is a Facebook Clone developed by [Ahmed Faroolle](https://www.imfaroolle.co
 - [Built with](#built-with)
 - [Author](#author)
 
-## Links
+## Screenshots
 
-- Live Site URL: [Facebook clone](https://imfaroolle-fecebook-clone.netlify.app/)
+#### Desktop
+
+![](./screenshots/Facebook.png)
+
+#### Mobile
+
+![](./screenshots/Facebook%20mobile.png)
+
+#### Video
+
+![](./screenshots/imfaroolle%20facebook%20clone.webm)
 
 ## Built with
 
